@@ -59,7 +59,7 @@ function App() {
       </div>*/}
       <Navbar />
       <Switch>
-      <Route path="/healthwebsite" exact component={Home}></Route>
+      <Route path="/healthwebsite1" exact component={Home}></Route>
       <Route path="/Aboutus" component={Aboutus}></Route>
       <Route path="/Contactus" component={Contactus}></Route>
       

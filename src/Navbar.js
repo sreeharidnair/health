@@ -7,7 +7,7 @@ function Navbar() {
         <nav>
             <ul className="Navbarstyle">
                 
-                <Link to="/healthwebsite">
+                <Link to="/healthwebsite1">
                 <li className="Navbarelements ">HOME</li> {/*just add active after elements */}
                 </Link>
                 <Link to="/Contactus">
